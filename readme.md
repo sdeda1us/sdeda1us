@@ -14,5 +14,5 @@ I'm currently developing my software engineer skills at [Prime Digital Academy](
 
 ## Contact:
 - [email](mailto:steven.maloney@gmail.com)
-- [linkedIn] (https://www.linkedin.com/in/steven-maloney-71a991106/)
-- [my gitHub repos] (https://github.com/sdeda1us?tab=repositories)
+- [linkedIn](https://www.linkedin.com/in/steven-maloney-71a991106/)
+- [my gitHub repos](https://github.com/sdeda1us?tab=repositories)
