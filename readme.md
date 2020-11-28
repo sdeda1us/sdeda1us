@@ -13,6 +13,6 @@ I'm currently developing my software engineer skills at [Prime Digital Academy](
 - [_Nonviolent Communication_](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X/ref=sr_1_2?crid=2K86U33U8UCGZ&dchild=1&keywords=nonviolent+communication+by+marshall+rosenberg&qid=1606583082&sprefix=nonvio%2Caps%2C172&sr=8-2) by Marshall Rosenberg
 
 ## Contact:
-- email: steven.maloney@gmail.com
-- linkedIn: https://www.linkedin.com/in/steven-maloney-71a991106/
-- my gitHub repos: https://github.com/sdeda1us
+- [email](mailto:steven.maloney@gmail.com)
+- [linkedIn] (https://www.linkedin.com/in/steven-maloney-71a991106/)
+- [my gitHub repos] (https://github.com/sdeda1us?tab=repositories)
