@@ -18,8 +18,7 @@ I'm currently developing my software engineer skills at [Prime Digital Academy](
 - [my gitHub repos](https://github.com/sdeda1us?tab=repositories)
 
 ## Images for my pinned Repositories Below:
-<a href="url"><img src="https://github.com/sdeda1us/jquery-server-side-calculator/blob/master/images/calcDeployed.png" align="left" height="150" width="100" >jQuery Server Side Calculator</a>
-
+<a href="url"><img src="https://github.com/sdeda1us/jquery-server-side-calculator/blob/master/images/calcDeployed.png" align="left" height="150" width="100" >r</a>
 <a href="url"><img src="https://github.com/sdeda1us/jquery-server-side-calculator/blob/master/images/calcDeployed.png" height="150" width="100" ></a>
 <a href="url"><img src="https://github.com/sdeda1us/jquery-salary-calculator/blob/master/salary_calc_deployed.png" height="250" width="250" ></a>
 
