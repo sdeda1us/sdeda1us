@@ -19,4 +19,4 @@ I'm currently developing my software engineer skills at [Prime Digital Academy](
 
 ## Images for my pinned Repositories Below:
 
-[jQuery Server Side Calculator](https://github.com/sdeda1us/jquery-server-side-calculator/blob/master/images/calcDeployed.png)
+![jQuery Server Side Calculator](https://github.com/sdeda1us/jquery-server-side-calculator/blob/master/images/calcDeployed.png)
