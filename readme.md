@@ -16,3 +16,7 @@ I'm currently developing my software engineer skills at [Prime Digital Academy](
 - [email](mailto:steven.maloney@gmail.com)
 - [linkedIn](https://www.linkedin.com/in/steven-maloney-71a991106/)
 - [my gitHub repos](https://github.com/sdeda1us?tab=repositories)
+
+## Images for my pinned Repositories Below:
+
+[jQuery Server Side Calculator](https://github.com/sdeda1us/jquery-server-side-calculator/blob/master/images/calcDeployed.png)
