@@ -1,6 +1,6 @@
 # Hi! I'm Steven Maloney. Nice to meet you!
 
-I'm currently developing my software engineer skills at [Prime Digital Academy](https://primeacademy.io/) in Minneapolis, Minnesota. Prime is a great place because of its emphasis on real world working conditions. We are constantly working in teams and working on problems we do not know the answers to. We have worked our way up to developing full stack applications and we are on our speeding toward the final weeks of our time here when we will work on real projects for real organizations.
+I'm currently a software developer at [Travelers](https://www.travelers.com/) where I support full satck angular applications, node and java microservices as well as backend data migration projects. 
 
 ## Three things about me
 - I used to be a political science professor before changing careers mid-life
@@ -8,9 +8,9 @@ I'm currently developing my software engineer skills at [Prime Digital Academy](
 - My daughter and I love to play [_Animal Crossing_](https://www.animal-crossing.com/new-horizons/) together while riding out the global pandemic
 
 ## Three books I'm reading right now
-- [_The Dark Forest_](https://www.amazon.com/Dark-Forest-Remembrance-Earths-Past-ebook/dp/B00R13OYU6/ref=sr_1_1?crid=1556KY4KAS5J1&dchild=1&keywords=the+dark+forest+by+cixin+liu&qid=1606583011&sprefix=the+dark+fore%2Caps%2C169&sr=8-1) by Cixin Liu
-- [_Grant_](https://www.amazon.com/Grant-Ron-Chernow/dp/0143110632/ref=sr_1_3?dchild=1&keywords=grant&qid=1606583049&sr=8-3) by Ron Chernow
-- [_Nonviolent Communication_](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X/ref=sr_1_2?crid=2K86U33U8UCGZ&dchild=1&keywords=nonviolent+communication+by+marshall+rosenberg&qid=1606583082&sprefix=nonvio%2Caps%2C172&sr=8-2) by Marshall Rosenberg
+- [_The Mixer: The Story of Premier League Tactics, from Route One to False Nines_](https://www.amazon.com/Mixer-Story-Premier-League-Tactics/dp/0008215553/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by Michael Cox
+- [_Hitting Against the Spin: How Cricket Really Works_](hitting against the spin) by Nathan Leamon and Ben Jones
+- [_New York 2140_](https://www.amazon.com/New-York-2140-Stanley-Robinson/dp/031626234X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1659043952&sr=1-1) by Kim Stanley Robinson
 
 ## Contact:
 - [email](mailto:steven.maloney@gmail.com)
