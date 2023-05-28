@@ -1,6 +1,4 @@
-# Hi! I'm Steven Maloney. Nice to meet you!
-
-I'm currently a software developer at [Travelers](https://www.travelers.com/) where I support full satck angular applications, node and java microservices as well as backend data migration projects. 
+I'm currently a Senior Business Consultant in Decision Science at [Travelers](https://www.travelers.com/) where I provide data-driven business insights for our Business Insurance Products. 
 
 ## Three things about me
 - I used to be a political science professor before changing careers mid-life
