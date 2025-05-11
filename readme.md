@@ -1,14 +1,15 @@
-I'm currently a Senior Business Consultant in Decision Science at [Travelers](https://www.travelers.com/) where I provide data-driven business insights for our Business Insurance Products. 
+Currently a Manager, Decision Science at [Travelers](https://www.travelers.com/).  
 
 ## Three things about me
 - I used to be a political science professor before changing careers mid-life
-- I love soccer, and am a huge supporter of [Arsenal](https://www.arsenal.com/) and [Minnesota United FC](https://www.mnufc.com/)
-- My daughter and I love to play [_Animal Crossing_](https://www.animal-crossing.com/new-horizons/) together while riding out the global pandemic
+- I enjoy working on data mdoeling and web developement projects in my spare time
+- I like to read and write in my spare time
+
 
 ## Three books I'm reading right now
-- [_The Mixer: The Story of Premier League Tactics, from Route One to False Nines_](https://www.amazon.com/Mixer-Story-Premier-League-Tactics/dp/0008215553/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by Michael Cox
-- [_Hitting Against the Spin: How Cricket Really Works_](https://www.amazon.com/Hitting-Against-Spin-Cricket-Really/dp/1472131266/ref=sr_1_1?crid=1BL2GDQILSJV8&keywords=hitting+against+the+spin&qid=1659044638&sprefix=hitting+a%2Caps%2C111&sr=8-1) by Nathan Leamon and Ben Jones
-- [_New York 2140_](https://www.amazon.com/New-York-2140-Stanley-Robinson/dp/031626234X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1659043952&sr=1-1) by Kim Stanley Robinson
+- [_Lincoln in the Bardo_](https://www.amazon.com/dp/0812985400/?bestFormat=true&k=lincoln%20in%20the%20bardo&ref_=nb_sb_ss_w_scx-ent-pd-bk-d_de_k0_1_20&crid=300LW73TDGZLQ&sprefix=lincoln%20in%20the%20bardo) by George Saunders
+- [_The Practice of not Thinking_](https://www.amazon.com/The-Practice-of-Not-Thinking/dp/0141994614/ref=sr_1_1?crid=TPUALN4XAFZL&dib=eyJ2IjoiMSJ9.mF1n7k71nfXlN9bXghcxtAfbR_rpS2UzQ1NSpWXsSyWMNq3q8PCVII_9-TxLE9lf-GOZ2FkreFDUOVIn1S9p0kLRBItEL_OVgrILMiDg6pQfiPVoUADmTS9EQT0NH7EwJyk8AH9--ECubabDPyxbpzco7mA_GwNZEdw1u4vqGkvur634GcMx2e4xK6zCIDMfEL0Ix8GHc6dgr2ICPy0jc4BO8-aSlRD09lPLeZowGDU.GrOXc-P5a-bGqhXD2nWdGO0ffKkNkL1fCe-aPp8MfbU&dib_tag=se&keywords=practice+of+not+thinking&qid=1747003348&s=books&sprefix=practice+of+not+thinking%2Cstripbooks%2C104&sr=1-1) by Ryunosuke Koike
+- [_Street of Laredo_](https://www.amazon.com/dp/0684857537/?bestFormat=true&k=streets%20of%20laredo&ref_=nb_sb_ss_w_scx-ent-pd-bk-d_de_k0_1_17&crid=8UPHV2JIV530&sprefix=streets%20of%20laredo)by Larry McMurtry
 
 ## Contact:
 - [email](mailto:steven.maloney@gmail.com)
